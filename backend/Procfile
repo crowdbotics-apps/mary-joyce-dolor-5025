@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mary_joyce_dolor_5025.wsgi:application
